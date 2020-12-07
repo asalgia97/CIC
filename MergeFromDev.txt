@@ -1,3 +1,5 @@
 echo "Merging from dev to Master"
 echo "Testing diff command"
 echo "Creating conflict "
+echo "Trying to create conflict at remote master branch"
+
